@@ -10,7 +10,7 @@
         $target_file = 'pages/404.php';
     }
 
-    //include 'components/header.php';
+    include 'components/header.php';
     include $target_file;
     //include 'components/footer.php';
 
